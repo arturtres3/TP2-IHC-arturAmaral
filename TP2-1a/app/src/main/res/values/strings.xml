@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP2_pt1a</string>
+    <string name="input1">First Value</string>
+    <string name="input2">Second Value</string>
+    <string name="somaBtn">Soma</string>
+    <string name="res">Resultado: </string>
+</resources>
