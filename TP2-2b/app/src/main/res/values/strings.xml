@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">TP2-2b</string>
-    <string name="prox_txt">O sensor de proximidade devolve uma constante (8) caso a frente do celular não esteja próxima de alguma coisa, e zero caso esteja. É usado para apagar a tela quando o usuário leva o celular à orelha durente uma chamada, por exemplo.</string>
-</resources>
